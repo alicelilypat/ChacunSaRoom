@@ -509,7 +509,14 @@ PrefabInstance:
       value: Center Alice
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 7924262399965325099, guid: 9f371a0febd80d34c960d2df18d07474, type: 3}
+    - {fileID: 3881910480372656822, guid: 9f371a0febd80d34c960d2df18d07474, type: 3}
+    - {fileID: 5318871246056317793, guid: 9f371a0febd80d34c960d2df18d07474, type: 3}
+    - {fileID: 7169630887907374897, guid: 9f371a0febd80d34c960d2df18d07474, type: 3}
+    - {fileID: 4796766820892294970, guid: 9f371a0febd80d34c960d2df18d07474, type: 3}
+    - {fileID: 5404375258609631811, guid: 9f371a0febd80d34c960d2df18d07474, type: 3}
+    - {fileID: 4774236988460705545, guid: 9f371a0febd80d34c960d2df18d07474, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f371a0febd80d34c960d2df18d07474, type: 3}
