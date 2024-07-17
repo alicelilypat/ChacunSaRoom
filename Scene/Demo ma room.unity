@@ -453,16 +453,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 136582577929428551, guid: 9f371a0febd80d34c960d2df18d07474,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.61499995
-      objectReference: {fileID: 0}
-    - target: {fileID: 1799311121933028589, guid: 9f371a0febd80d34c960d2df18d07474,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.60899997
-      objectReference: {fileID: 0}
     - target: {fileID: 2700865487325481506, guid: 9f371a0febd80d34c960d2df18d07474,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -513,45 +503,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2731190579179016868, guid: 9f371a0febd80d34c960d2df18d07474,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.603
-      objectReference: {fileID: 0}
-    - target: {fileID: 2797969142041193394, guid: 9f371a0febd80d34c960d2df18d07474,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.61899996
-      objectReference: {fileID: 0}
-    - target: {fileID: 4633045159643584761, guid: 9f371a0febd80d34c960d2df18d07474,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.05000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 5263212157747297715, guid: 9f371a0febd80d34c960d2df18d07474,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.641
-      objectReference: {fileID: 0}
-    - target: {fileID: 6436433600617721843, guid: 9f371a0febd80d34c960d2df18d07474,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.62399995
-      objectReference: {fileID: 0}
     - target: {fileID: 7558766583206307101, guid: 9f371a0febd80d34c960d2df18d07474,
         type: 3}
       propertyPath: m_Name
       value: Center Alice
-      objectReference: {fileID: 0}
-    - target: {fileID: 7574012443895900892, guid: 9f371a0febd80d34c960d2df18d07474,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.672
-      objectReference: {fileID: 0}
-    - target: {fileID: 8277349664181817103, guid: 9f371a0febd80d34c960d2df18d07474,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.617
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
